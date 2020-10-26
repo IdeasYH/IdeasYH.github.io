@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/IdeasYH/IdeasYH.github.io</id>
+    <id>https://github.com/IdeasYH/IdeasYH.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-26T07:55:35.152Z</updated>
+    <updated>2020-10-26T08:00:35.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/IdeasYH/IdeasYH.github.io"/>
-    <link rel="self" href="https://https://github.com/IdeasYH/IdeasYH.github.io/atom.xml"/>
+    <link rel="alternate" href="https://github.com/IdeasYH/IdeasYH.github.io"/>
+    <link rel="self" href="https://github.com/IdeasYH/IdeasYH.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://github.com/IdeasYH/IdeasYH.github.io/images/avatar.png</logo>
-    <icon>https://https://github.com/IdeasYH/IdeasYH.github.io/favicon.ico</icon>
+    <logo>https://github.com/IdeasYH/IdeasYH.github.io/images/avatar.png</logo>
+    <icon>https://github.com/IdeasYH/IdeasYH.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Springboot源码学习_启动类]]></title>
-        <id>https://https://github.com/IdeasYH/IdeasYH.github.io/post/springboot-yuan-ma-xue-xi-_-qi-dong-lei/</id>
-        <link href="https://https://github.com/IdeasYH/IdeasYH.github.io/post/springboot-yuan-ma-xue-xi-_-qi-dong-lei/">
+        <id>https://github.com/IdeasYH/IdeasYH.github.io/post/springboot-yuan-ma-xue-xi-_-qi-dong-lei/</id>
+        <link href="https://github.com/IdeasYH/IdeasYH.github.io/post/springboot-yuan-ma-xue-xi-_-qi-dong-lei/">
         </link>
         <updated>2020-10-24T02:40:02.000Z</updated>
         <content type="html"><![CDATA[<h1 id="关于启动类jarluncher">关于启动类jarLuncher</h1>
@@ -498,8 +498,8 @@ protected Class&lt;?&gt; loadClass(String name, boolean resolve)
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://github.com/IdeasYH/IdeasYH.github.io/post/hello-gridea/</id>
-        <link href="https://https://github.com/IdeasYH/IdeasYH.github.io/post/hello-gridea/">
+        <id>https://github.com/IdeasYH/IdeasYH.github.io/post/hello-gridea/</id>
+        <link href="https://github.com/IdeasYH/IdeasYH.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
